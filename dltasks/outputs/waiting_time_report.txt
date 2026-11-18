@@ -1,0 +1,19 @@
+============================================================
+           VISIONPORT TRAFFIC WAITING-TIME REPORT
+============================================================
+Generated At        : 2026-11-18 10:28:11
+Signal State        : RED (Buffer: +24.0s)
+Total Queue Volume  : 14 vehicles
+Queue Delay Grade   : HEAVY DELAY (Grade C - Congested)
+------------------------------------------------------------
+VEHICLE QUEUE COMPOSITION & CLEARANCE ESTIMATION:
+  • Car            :  7 units | Sub-clearance: 15.4 sec
+  • Motorcycle     :  4 units | Sub-clearance:  4.8 sec
+  • Bus            :  2 units | Sub-clearance:  9.0 sec
+  • Truck          :  1 units | Sub-clearance:  5.0 sec
+------------------------------------------------------------
+ESTIMATED QUEUE CLEARANCE : 34.2 seconds
+SIGNAL CYCLE OVERHEAD     : 24.0 seconds
+TOTAL ESTIMATED WAIT TIME : 58.2 seconds (0.97 mins)
+RECOMMENDED ACTION        : Extend Green Phase by +15s
+============================================================
